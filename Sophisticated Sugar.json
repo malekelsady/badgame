@@ -29,33 +29,33 @@
     "minFPS": 20,
     "verticalSync": false,
     "platformSpecificAssets": {
-      "android-icon-144": "",
-      "android-icon-192": "",
-      "android-icon-36": "",
-      "android-icon-48": "",
-      "android-icon-72": "",
-      "android-icon-96": "",
-      "android-windowSplashScreenAnimatedIcon": "",
-      "desktop-icon-512": "",
-      "ios-icon-100": "",
-      "ios-icon-1024": "",
-      "ios-icon-114": "",
-      "ios-icon-120": "",
-      "ios-icon-144": "",
-      "ios-icon-152": "",
-      "ios-icon-167": "",
-      "ios-icon-180": "",
-      "ios-icon-20": "",
-      "ios-icon-29": "",
-      "ios-icon-40": "",
-      "ios-icon-50": "",
-      "ios-icon-57": "",
-      "ios-icon-58": "",
-      "ios-icon-60": "",
-      "ios-icon-72": "",
-      "ios-icon-76": "",
-      "ios-icon-80": "",
-      "ios-icon-87": ""
+      "android-icon-144": "android-icon-144.png",
+      "android-icon-192": "android-icon-192.png",
+      "android-icon-36": "android-icon-36.png",
+      "android-icon-48": "android-icon-48.png",
+      "android-icon-72": "android-icon-72.png",
+      "android-icon-96": "android-icon-96.png",
+      "android-windowSplashScreenAnimatedIcon": "android-windowSplashScreenAnimatedIcon.png",
+      "desktop-icon-512": "desktop-icon-512.png",
+      "ios-icon-100": "ios-icon-100.png",
+      "ios-icon-1024": "ios-icon-1024.png",
+      "ios-icon-114": "ios-icon-114.png",
+      "ios-icon-120": "ios-icon-120.png",
+      "ios-icon-144": "ios-icon-144.png",
+      "ios-icon-152": "ios-icon-152.png",
+      "ios-icon-167": "ios-icon-167.png",
+      "ios-icon-180": "ios-icon-180.png",
+      "ios-icon-20": "ios-icon-20.png",
+      "ios-icon-29": "ios-icon-29.png",
+      "ios-icon-40": "ios-icon-40.png",
+      "ios-icon-50": "ios-icon-50.png",
+      "ios-icon-57": "ios-icon-57.png",
+      "ios-icon-58": "ios-icon-58.png",
+      "ios-icon-60": "ios-icon-60.png",
+      "ios-icon-72": "ios-icon-72.png",
+      "ios-icon-76": "ios-icon-76.png",
+      "ios-icon-80": "ios-icon-80.png",
+      "ios-icon-87": "ios-icon-87.png"
     },
     "loadingScreen": {
       "backgroundColor": 0,
@@ -1238,14 +1238,6 @@
         "userAdded": false
       },
       {
-        "file": "assets/NewSprite20.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite20.png\"}",
-        "name": "NewSprite16",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
         "file": "assets/NewSprite21.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1268,6 +1260,420 @@
         "name": "5hieght2.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "audiomass-output (7).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "audiomass-output (7).mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Jump66.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Jump66.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hit_Hurt341.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hit_Hurt341.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "delon_boomkin-video-game-collect-item-468889.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "delon_boomkin-video-game-collect-item-468889.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "alexis_gaming_cam-item-collected-1-367087.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "alexis_gaming_cam-item-collected-1-367087.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Randomize23.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Randomize23.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Randomize29.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Randomize29.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hit_Hurt360.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hit_Hurt360.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hit_Hurt365.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hit_Hurt365.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hit_Hurt390.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hit_Hurt390.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hit_Hurt403.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hit_Hurt403.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Pickup_Coin62.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Pickup_Coin62.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Explosion91.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Explosion91.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Laser_Shoot131.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Laser_Shoot131.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Hit_Hurt419.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Hit_Hurt419.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Randomize53.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Randomize53.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "freesound_community-jump_c_02-102843.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "freesound_community-jump_c_02-102843.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "freesound_community-8-bit-explosion-95847.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "freesound_community-8-bit-explosion-95847.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "freesound_community-sfx_jump_07-80241.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "freesound_community-sfx_jump_07-80241.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "New Piskel-1.png - 2026-04-01T044242.662.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "New Piskel-1.png - 2026-04-01T044242.662.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/desktop-icon-512.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/desktop-icon-512.png\"}",
+        "name": "desktop-icon-512.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-192.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-192.png\"}",
+        "name": "android-icon-192.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-144.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-144.png\"}",
+        "name": "android-icon-144.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-96.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-96.png\"}",
+        "name": "android-icon-96.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-72.png\"}",
+        "name": "android-icon-72.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-48.png\"}",
+        "name": "android-icon-48.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-icon-36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-icon-36.png\"}",
+        "name": "android-icon-36.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/android-windowSplashScreenAnimatedIcon.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/android-windowSplashScreenAnimatedIcon.png\"}",
+        "name": "android-windowSplashScreenAnimatedIcon.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-1024.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-1024.png\"}",
+        "name": "ios-icon-1024.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-180.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-180.png\"}",
+        "name": "ios-icon-180.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-167.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-167.png\"}",
+        "name": "ios-icon-167.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-152.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-152.png\"}",
+        "name": "ios-icon-152.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-144.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-144.png\"}",
+        "name": "ios-icon-144.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-120.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-120.png\"}",
+        "name": "ios-icon-120.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-114.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-114.png\"}",
+        "name": "ios-icon-114.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-100.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-100.png\"}",
+        "name": "ios-icon-100.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-87.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-87.png\"}",
+        "name": "ios-icon-87.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-80.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-80.png\"}",
+        "name": "ios-icon-80.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-76.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-76.png\"}",
+        "name": "ios-icon-76.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-72.png\"}",
+        "name": "ios-icon-72.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-60.png\"}",
+        "name": "ios-icon-60.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-58.png\"}",
+        "name": "ios-icon-58.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-57.png\"}",
+        "name": "ios-icon-57.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-50.png\"}",
+        "name": "ios-icon-50.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-40.png\"}",
+        "name": "ios-icon-40.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-29.png\"}",
+        "name": "ios-icon-29.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ios-icon-20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"./assets/ios-icon-20.png\"}",
+        "name": "ios-icon-20.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ]
   },
@@ -1278,6 +1684,527 @@
   "objectsGroups": [],
   "variables": [],
   "layouts": [
+    {
+      "b": 255,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Untitled_32scene",
+      "name": "Untitled scene",
+      "r": 247,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 249,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 1.2560515761562312,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 388,
+          "keepRatio": true,
+          "layer": "",
+          "locked": true,
+          "name": "NewSprite15",
+          "persistentUuid": "d4af2f12-e329-4aa9-b070-1def76452489",
+          "sealed": true,
+          "width": 529,
+          "x": -60,
+          "y": -48,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 14,
+          "keepRatio": true,
+          "layer": "",
+          "name": "lockstext5",
+          "persistentUuid": "d2ca85c6-108c-4314-ba1a-b11224fbbed6",
+          "width": 399,
+          "x": 1,
+          "y": 201,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 120,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "c0d3a5ab-bba9-42a7-92fc-81533082ff0f",
+          "width": 120,
+          "x": 137,
+          "y": 62,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "persistentUuid": "a89b2c39-302e-4e03-8c8e-ca315dd4b4e9",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "New Piskel-1.png - 2026-04-01T044242.662.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 19
+                          },
+                          {
+                            "x": 118,
+                            "y": 19
+                          },
+                          {
+                            "x": 118,
+                            "y": 101
+                          },
+                          {
+                            "x": 2,
+                            "y": 101
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite15",
+          "persistentUuid": "03eb8bef-315d-428d-9c2e-8550606ab8ef",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 4,
+                            "y": 0
+                          },
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 0,
+                            "y": 4
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "lockstext5",
+          "persistentUuid": "6975ba76-45ed-4d6f-b5b2-04f9b4a7efdf",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": true,
+              "IsDestroyedWithParent": false
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "content": {
+            "text": "PRESS SPACE TO START",
+            "opacity": 255,
+            "scale": 0.083,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "5hieght.fnt",
+            "textureAtlasResourceName": "5hieght2.png",
+            "align": "center",
+            "verticalTextAlignment": "top"
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "NewSprite"
+          },
+          {
+            "objectName": "NewSprite15"
+          },
+          {
+            "objectName": "lockstext5"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetFullScreen"
+              },
+              "parameters": [
+                "",
+                "yes",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetCenterX"
+              },
+              "parameters": [
+                "NewSprite",
+                "=",
+                "lockstext5.CenterX()"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "lockstext5",
+                "Opacity",
+                "=",
+                "NewSprite.Opacity::Value()"
+              ]
+            },
+            {
+              "type": {
+                "value": "AdvancedWindow::SetFullScreenable"
+              },
+              "parameters": [
+                "yes",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "KeyFromTextJustPressed"
+              },
+              "parameters": [
+                "",
+                "\"Space\""
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::Value"
+              },
+              "parameters": [
+                "NewSprite",
+                "Opacity",
+                "=",
+                "255"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "NewSprite",
+                "Tween",
+                "\"d\"",
+                "0",
+                "\"easeOutQuart\"",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::Value"
+              },
+              "parameters": [
+                "NewSprite",
+                "Opacity",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Untitled scene3\"",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Sticker",
+          "type": "Sticker::Sticker"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
+    },
     {
       "b": 10,
       "disableInputWhenNotFocused": true,
@@ -1300,7 +2227,7 @@
         "gridColor": 2434341,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 1.2952916551238227,
+        "zoomFactor": 0.814188120371137,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -1799,7 +2726,6 @@
           "value": 0
         },
         {
-          "folded": true,
           "name": "clicker",
           "type": "structure",
           "children": [
@@ -2389,8 +3315,8 @@
           "name": "pplayer",
           "persistentUuid": "46f058b3-948a-480b-b820-b107ca27ec46",
           "width": 0,
-          "x": -214,
-          "y": -1100,
+          "x": -217,
+          "y": -962,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -11093,6 +12019,57 @@
               "value": 8
             }
           ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 418,
+          "keepRatio": true,
+          "layer": "trans",
+          "name": "NewSprite15",
+          "persistentUuid": "37687f8a-d564-4881-a211-99ee25b63b90",
+          "width": 671,
+          "x": -116,
+          "y": -59,
+          "zOrder": -100,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 28,
+          "keepRatio": true,
+          "layer": "trans",
+          "name": "lockstext5",
+          "persistentUuid": "d3d45788-4dfd-43f2-9be7-3634e19bbb47",
+          "width": 393,
+          "x": 14,
+          "y": 50,
+          "zOrder": 10004,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 14,
+          "keepRatio": true,
+          "layer": "trans",
+          "name": "lockstext6",
+          "persistentUuid": "cbacdfac-9e28-4054-8864-55fdc212cbf3",
+          "width": 241,
+          "x": 93,
+          "y": 209,
+          "zOrder": 10005,
+          "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         }
@@ -24619,6 +25596,146 @@
             "align": "center",
             "verticalTextAlignment": "top"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite15",
+          "persistentUuid": "c10a6983-0855-4f29-81bc-681cdf02804e",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite14",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 4,
+                            "y": 0
+                          },
+                          {
+                            "x": 4,
+                            "y": 4
+                          },
+                          {
+                            "x": 0,
+                            "y": 4
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "lockstext5",
+          "persistentUuid": "bf7e87b0-9765-4979-9dcc-89acee21d8fd",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": true,
+              "IsDestroyedWithParent": false
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "content": {
+            "text": "THANKS FOR PLAYING",
+            "opacity": 255,
+            "scale": 0.166,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "5hieght.fnt",
+            "textureAtlasResourceName": "5hieght2.png",
+            "align": "center",
+            "verticalTextAlignment": "top"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "name": "lockstext6",
+          "persistentUuid": "3300928d-194f-4b5e-bf10-92901b607c39",
+          "type": "BitmapText::BitmapTextObject",
+          "variables": [
+            {
+              "name": "Variable",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Sticker",
+              "type": "Sticker::Sticker",
+              "OnlyFollowPosition": true,
+              "IsDestroyedWithParent": false
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "content": {
+            "text": "MADE FOR BAD IDEAS JAM 2025 BY MALEK ELSADY",
+            "opacity": 255,
+            "scale": 0.166,
+            "fontSize": 20,
+            "tint": "255;255;255",
+            "bitmapFontResourceName": "5hieght.fnt",
+            "textureAtlasResourceName": "5hieght2.png",
+            "align": "center",
+            "verticalTextAlignment": "top"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -25090,6 +26207,15 @@
                 "objectName": "lemblem"
               }
             ]
+          },
+          {
+            "objectName": "NewSprite15"
+          },
+          {
+            "objectName": "lockstext5"
+          },
+          {
+            "objectName": "lockstext6"
           }
         ]
       },
@@ -25363,6 +26489,44 @@
               "parameters": [
                 "",
                 "key3s",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "lockstext5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "lockstext6"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlayMusicOnChannel"
+              },
+              "parameters": [
+                "",
+                "audiomass-output (7).mp3",
+                "1",
+                "yes",
+                "50",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AdvancedWindow::SetFullScreenable"
+              },
+              "parameters": [
+                "yes",
                 ""
               ]
             }
@@ -25942,6 +27106,18 @@
                 "op",
                 "spin",
                 "Toggle",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Hit_Hurt341.wav",
+                "",
+                "3",
                 ""
               ]
             }
@@ -27019,6 +28195,150 @@
           ]
         },
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SceneJustBegins"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "NewSprite15",
+                "Tween",
+                "\"doapodakdasokpdasopdsaokpdspokasd\"",
+                "0",
+                "\"linear\"",
+                "1",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "caches.platformer.jump",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "caches.platformer.hook",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "caches.platformer.key",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "caches.clicker.clickers",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "caches.clicker.multiplier",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "caches.clicker.speed",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "caches.datingsim.op1",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "caches.lovepet.feed",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "caches.lovepet.shower",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "caches.lovepet.tramp",
+                "True",
+                ""
+              ]
+            }
+          ]
+        },
+        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
@@ -27029,7 +28349,6 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -27062,7 +28381,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "everyting",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -27335,27 +28653,6 @@
                     },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "PlatformBehavior::IsOnFloor"
-                          },
-                          "parameters": [
-                            "pplayer",
-                            "PlatformerObject"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": []
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [],
                       "actions": [
                         {
@@ -27467,6 +28764,40 @@
                       ]
                     },
                     {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsJumping"
+                          },
+                          "parameters": [
+                            "pplayer",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Jump66.wav",
+                            "",
+                            "10",
+                            "RandomFloatInRange(1,2)"
+                          ]
+                        }
+                      ]
+                    },
+                    {
                       "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [],
@@ -27571,6 +28902,18 @@
                             "1",
                             "yes",
                             "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "delon_boomkin-video-game-collect-item-468889.mp3",
+                            "",
+                            "10",
+                            ""
                           ]
                         }
                       ]
@@ -27940,6 +29283,7 @@
                           ]
                         },
                         {
+                          "folded": true,
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
                             {
@@ -28087,6 +29431,18 @@
                                         "False",
                                         ""
                                       ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlaySound"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "Hit_Hurt341.wav",
+                                        "",
+                                        "10",
+                                        "RandomFloatInRange(1,2)"
+                                      ]
                                     }
                                   ],
                                   "events": [
@@ -28208,6 +29564,18 @@
                                         "\"swingTo\"",
                                         "0.2",
                                         ""
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlaySound"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "Hit_Hurt341.wav",
+                                        "",
+                                        "10",
+                                        "RandomFloatInRange(3,4)"
                                       ]
                                     }
                                   ]
@@ -28384,6 +29752,18 @@
                                         "False",
                                         ""
                                       ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlaySound"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "Hit_Hurt341.wav",
+                                        "",
+                                        "10",
+                                        "RandomFloatInRange(1,2)"
+                                      ]
                                     }
                                   ],
                                   "events": [
@@ -28505,6 +29885,18 @@
                                         "\"swingTo\"",
                                         "0.2",
                                         ""
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlaySound"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "Hit_Hurt341.wav",
+                                        "",
+                                        "10",
+                                        "RandomFloatInRange(3,4)"
                                       ]
                                     }
                                   ]
@@ -28907,6 +30299,32 @@
                             },
                             {
                               "type": {
+                                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+                              },
+                              "parameters": [
+                                "phook",
+                                "Tween",
+                                "\"fro\"",
+                                "pplayer.X()",
+                                "\"swingTo\"",
+                                "0.14",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Hit_Hurt341.wav",
+                                "",
+                                "10",
+                                "RandomFloatInRange(3,4)"
+                              ]
+                            },
+                            {
+                              "type": {
                                 "value": "Wait"
                               },
                               "parameters": [
@@ -29089,7 +30507,6 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
-                      "folded": true,
                       "name": "death + checkpoints",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
@@ -29179,6 +30596,18 @@
                                 "Animation",
                                 "=",
                                 "\"-1\""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Randomize23.wav",
+                                "",
+                                "14",
+                                "RandomFloatInRange(1,2)"
                               ]
                             }
                           ],
@@ -29411,6 +30840,18 @@
                             },
                             {
                               "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Hit_Hurt341.wav",
+                                "",
+                                "30",
+                                "RandomFloatInRange(1,2)"
+                              ]
+                            },
+                            {
+                              "type": {
                                 "value": "Wait"
                               },
                               "parameters": [
@@ -29537,6 +30978,18 @@
                                 "\"swingTo\"",
                                 "0.4",
                                 ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Hit_Hurt341.wav",
+                                "",
+                                "30",
+                                "RandomFloatInRange(1,2)"
                               ]
                             },
                             {
@@ -29963,7 +31416,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "CLICKER /1",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -29992,6 +31444,34 @@
                     "Text",
                     "=",
                     "SubStr(\"0000000000\", 0, 6-StrLength(clicker.currentcount))"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "clicker.currentcount",
+                    ">",
+                    "999999"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ccounter",
+                    "Text",
+                    "=",
+                    "\"999999\""
                   ]
                 }
               ]
@@ -30274,6 +31754,18 @@
                         },
                         {
                           "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Randomize29.wav",
+                            "",
+                            "25",
+                            "RandomFloatInRange(0.5,3)"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "ChangeSprite"
                           },
                           "parameters": [
@@ -30387,6 +31879,18 @@
                           },
                           "parameters": [
                             "0.2*clicker.dicespeed"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Hit_Hurt365.wav",
+                            "",
+                            "25",
+                            "RandomFloatInRange(0.5,3)"
                           ]
                         },
                         {
@@ -30580,6 +32084,18 @@
                             "yes",
                             "yes"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "delon_boomkin-video-game-collect-item-468889.mp3",
+                            "",
+                            "10",
+                            ""
+                          ]
                         }
                       ]
                     },
@@ -30716,6 +32232,30 @@
                                 "cost",
                                 "=",
                                 "cbutton.currentprice[cbutton.pricestep - 1]"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Hit_Hurt390.wav",
+                                "",
+                                "20",
+                                "RandomFloatInRange(1,1.5)"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Pickup_Coin62.wav",
+                                "",
+                                "10",
+                                "RandomFloatInRange(1,1.5)"
                               ]
                             }
                           ],
@@ -30974,6 +32514,18 @@
                                 "",
                                 ""
                               ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Hit_Hurt403.wav",
+                                "",
+                                "15",
+                                "RandomFloatInRange(1,1.5)"
+                              ]
                             }
                           ]
                         },
@@ -31027,6 +32579,18 @@
                                 "0.08",
                                 "",
                                 ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Hit_Hurt403.wav",
+                                "",
+                                "15",
+                                "RandomFloatInRange(1,1.5)"
                               ]
                             }
                           ]
@@ -31155,34 +32719,6 @@
                                 "\"SOLD OUT\""
                               ]
                             }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "clicker.currentcount",
-                            ">",
-                            "999999"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                          },
-                          "parameters": [
-                            "ccounter",
-                            "Text",
-                            "=",
-                            "\"999999\""
                           ]
                         }
                       ]
@@ -31867,6 +33403,7 @@
                   ]
                 },
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -32000,6 +33537,38 @@
                         "Text",
                         "=",
                         "\"+\"+ToString(clicker.autoclickers*(ceil((cpip.Animation::Index()+1)*clicker.multiplier)))"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "LayerTimeScale"
+                          },
+                          "parameters": [
+                            "",
+                            "\"clicker\"",
+                            "=",
+                            "1"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Hit_Hurt365.wav",
+                            "",
+                            "25",
+                            "RandomFloatInRange(0.5,3)"
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -32358,7 +33927,6 @@
               ]
             },
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -32380,7 +33948,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "everythgin",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -32651,6 +34218,18 @@
                             "yes",
                             "yes"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "delon_boomkin-video-game-collect-item-468889.mp3",
+                            "",
+                            "10",
+                            ""
+                          ]
                         }
                       ]
                     },
@@ -32781,6 +34360,17 @@
                         },
                         {
                           "type": {
+                            "value": "OpacityCapability::OpacityBehavior::Value"
+                          },
+                          "parameters": [
+                            "NewSprite15",
+                            "Opacity",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "BuiltinCommonInstructions::Once"
                           },
                           "parameters": []
@@ -32796,6 +34386,18 @@
                             "flip",
                             "Toggle",
                             ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Hit_Hurt390.wav",
+                            "",
+                            "15",
+                            "RandomFloatInRange(1,1.5)"
                           ]
                         }
                       ]
@@ -33125,6 +34727,18 @@
                         },
                         {
                           "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Explosion91.wav",
+                            "",
+                            "10",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "Wait"
                           },
                           "parameters": [
@@ -33186,6 +34800,18 @@
                             "ded",
                             "False",
                             "checkpoint.CenterY()"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Jump66.wav",
+                            "",
+                            "10",
+                            ""
                           ]
                         }
                       ]
@@ -33715,6 +35341,18 @@
                     "yes",
                     "yes"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "delon_boomkin-video-game-collect-item-468889.mp3",
+                    "",
+                    "10",
+                    ""
+                  ]
                 }
               ]
             },
@@ -33741,7 +35379,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "evrtythfing",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -34430,7 +36067,6 @@
                       "colorG": 74,
                       "colorR": 210,
                       "creationTime": 0,
-                      "folded": true,
                       "name": "CACHE GETTING",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
@@ -35020,6 +36656,18 @@
                                 "=",
                                 "130"
                               ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Hit_Hurt365.wav",
+                                "",
+                                "40",
+                                ""
+                              ]
                             }
                           ]
                         },
@@ -35148,6 +36796,18 @@
                               },
                               "parameters": [
                                 "tgun"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Explosion91.wav",
+                                "",
+                                "20",
+                                ""
                               ]
                             },
                             {
@@ -35984,6 +37644,18 @@
                             },
                             {
                               "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Laser_Shoot131.wav",
+                                "",
+                                "20",
+                                "RandomFloatInRange(0.5,1.5)"
+                              ]
+                            },
+                            {
+                              "type": {
                                 "value": "ParticleSystem::StartEmission"
                               },
                               "parameters": [
@@ -36127,6 +37799,18 @@
                                 "ammo",
                                 "=",
                                 "tgun.maxammo"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Randomize53.wav",
+                                "",
+                                "25",
+                                ""
                               ]
                             }
                           ]
@@ -37071,6 +38755,18 @@
                                 },
                                 {
                                   "type": {
+                                    "value": "PlaySound"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Hit_Hurt419.wav",
+                                    "",
+                                    "10",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
                                     "value": "Flash::Flash::Flash"
                                   },
                                   "parameters": [
@@ -37147,6 +38843,18 @@
                                     "health",
                                     "-",
                                     "1"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PlaySound"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Hit_Hurt419.wav",
+                                    "",
+                                    "10",
+                                    ""
                                   ]
                                 },
                                 {
@@ -37653,6 +39361,18 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Randomize23.wav",
+                    "",
+                    "15",
+                    "RandomFloatInRange(0.5,1.5)"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -37679,6 +39399,18 @@
                   },
                   "parameters": [
                     "0.4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Randomize53.wav",
+                    "",
+                    "10",
+                    "RandomFloatInRange(1,3)"
                   ]
                 },
                 {
@@ -37755,7 +39487,6 @@
               ]
             },
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -38194,6 +39925,30 @@
                         }
                       ],
                       "actions": [
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Jump66.wav",
+                            "",
+                            "RandomInRange(10,20)",
+                            "RandomFloatInRange(1,3)"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Hit_Hurt365.wav",
+                            "",
+                            "RandomInRange(8,15)",
+                            "RandomFloatInRange(1,3)"
+                          ]
+                        },
                         {
                           "type": {
                             "value": "Tween::TweenBehavior::AddObjectScaleYTween2"
@@ -39147,6 +40902,18 @@
                         "True",
                         "pcache.forwhat"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "delon_boomkin-video-game-collect-item-468889.mp3",
+                        "",
+                        "10",
+                        ""
+                      ]
                     }
                   ]
                 }
@@ -39301,7 +41068,6 @@
               "parameters": []
             },
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -39323,7 +41089,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "everything",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -40039,6 +41804,63 @@
                       ]
                     },
                     {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "AutoTyping::AutoTyping::HasJustTyped"
+                          },
+                          "parameters": [
+                            "girltext",
+                            "AutoTyping",
+                            "="
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "AutoTyping::AutoTyping::IsFinished"
+                          },
+                          "parameters": [
+                            "girltext",
+                            "AutoTyping",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "OpacityCapability::OpacityBehavior::Value"
+                          },
+                          "parameters": [
+                            "NewSprite15",
+                            "Opacity",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Hit_Hurt360.wav",
+                            "",
+                            "1",
+                            "3"
+                          ]
+                        }
+                      ]
+                    },
+                    {
                       "colorB": 228,
                       "colorG": 176,
                       "colorR": 74,
@@ -40114,6 +41936,18 @@
                                 "talk_answer_reply",
                                 "+",
                                 "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Hit_Hurt360.wav",
+                                "",
+                                "10",
+                                "RandomFloatInRange(2,3)"
                               ]
                             }
                           ]
@@ -40213,6 +42047,18 @@
                                 "=",
                                 "0"
                               ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Hit_Hurt360.wav",
+                                "",
+                                "10",
+                                "RandomFloatInRange(2,3)"
+                              ]
                             }
                           ]
                         },
@@ -40283,6 +42129,18 @@
                                 "0.6",
                                 "",
                                 "yes"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "delon_boomkin-video-game-collect-item-468889.mp3",
+                                "",
+                                "10",
+                                ""
                               ]
                             },
                             {
@@ -40394,11 +42252,22 @@
                                 "AutoTyping",
                                 "+"
                               ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Hit_Hurt360.wav",
+                                "",
+                                "10",
+                                "RandomFloatInRange(2,3)"
+                              ]
                             }
                           ]
                         },
                         {
-                          "folded": true,
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
                             {
@@ -40500,6 +42369,18 @@
                                     "=",
                                     "1"
                                   ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PlaySound"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Hit_Hurt360.wav",
+                                    "",
+                                    "10",
+                                    "RandomFloatInRange(2,3)"
+                                  ]
                                 }
                               ]
                             },
@@ -40577,6 +42458,18 @@
                                     "=",
                                     "2"
                                   ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PlaySound"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Hit_Hurt360.wav",
+                                    "",
+                                    "10",
+                                    "RandomFloatInRange(2,3)"
+                                  ]
                                 }
                               ]
                             },
@@ -40653,6 +42546,18 @@
                                     "justpicked",
                                     "=",
                                     "3"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PlaySound"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Hit_Hurt360.wav",
+                                    "",
+                                    "10",
+                                    "RandomFloatInRange(2,3)"
                                   ]
                                 }
                               ]
@@ -43219,7 +45124,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "PONG /6",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -43279,6 +45183,150 @@
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
                   "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "bball",
+                            "btilemap",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "bpaddle",
+                            "holding",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Hit_Hurt390.wav",
+                            "",
+                            "3",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "bball",
+                            "bpaddle",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "bpaddle",
+                            "holding",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Hit_Hurt390.wav",
+                            "",
+                            "7",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "bball",
+                            "NewSprite8",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "bpaddle",
+                            "holding",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Hit_Hurt390.wav",
+                            "",
+                            "5",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
                     {
                       "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
@@ -44261,6 +46309,18 @@
                             "True",
                             ""
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Randomize29.wav",
+                            "",
+                            "4",
+                            ""
+                          ]
                         }
                       ]
                     },
@@ -44361,6 +46421,18 @@
                             "=",
                             "SceneInstancesCount(bball)"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Randomize53.wav",
+                            "",
+                            "16",
+                            ""
+                          ]
                         }
                       ]
                     },
@@ -44401,7 +46473,6 @@
               "colorG": 74,
               "colorR": 210,
               "creationTime": 0,
-              "folded": true,
               "name": "CACHE GETTING",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -44866,6 +46937,18 @@
                     },
                     {
                       "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "delon_boomkin-video-game-collect-item-468889.mp3",
+                        "",
+                        "10",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "Wait"
                       },
                       "parameters": [
@@ -44923,7 +47006,6 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -44946,6 +47028,16 @@
                   "parameters": [
                     "lpet",
                     "DraggablePhysics",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "lshower",
+                    "Draggable",
                     "yes"
                   ]
                 }
@@ -45118,7 +47210,6 @@
                       ]
                     },
                     {
-                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -45127,7 +47218,7 @@
                             "value": "DraggablePhysics::DraggablePhysics::IsBeingDragged"
                           },
                           "parameters": [
-                            "lpet",
+                            "lfood",
                             "DraggablePhysics",
                             ""
                           ]
@@ -45137,57 +47228,30 @@
                             "value": "Physics2::Collision"
                           },
                           "parameters": [
-                            "lpet",
+                            "lfood",
                             "Physics2",
-                            "lfood2",
+                            "ltramp",
                             "0"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
                         }
                       ],
                       "actions": [
                         {
                           "type": {
-                            "value": "RotateTowardAngle"
+                            "value": "PlaySound"
                           },
                           "parameters": [
-                            "lpet",
-                            "0",
-                            "1000",
-                            ""
-                          ]
-                        }
-                      ],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "BuiltinCommonInstructions::Once"
-                              },
-                              "parameters": []
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "Wait"
-                              },
-                              "parameters": [
-                                "0.5"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
-                              },
-                              "parameters": [
-                                "lpet",
-                                "Animation",
-                                "=",
-                                "0"
-                              ]
-                            }
+                            "",
+                            "freesound_community-jump_c_02-102843.mp3",
+                            "",
+                            "10",
+                            "RandomFloatInRange(1,2)"
                           ]
                         }
                       ]
@@ -45608,6 +47672,18 @@
                         },
                         {
                           "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "freesound_community-sfx_jump_07-80241.mp3",
+                            "",
+                            "10",
+                            "RandomFloatInRange(1,2)"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "Wait"
                           },
                           "parameters": [
@@ -45805,6 +47881,18 @@
                             "=",
                             "RandomInRange(0,2)"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "freesound_community-8-bit-explosion-95847.mp3",
+                            "",
+                            "10",
+                            "RandomFloatInRange(1,2)"
+                          ]
                         }
                       ]
                     },
@@ -45951,6 +48039,7 @@
                       ]
                     },
                     {
+                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -46109,6 +48198,7 @@
                       "conditions": [
                         {
                           "type": {
+                            "inverted": true,
                             "value": "DraggableBehavior::Dropped"
                           },
                           "parameters": [
@@ -46229,6 +48319,33 @@
                             "0.03*48*TimeDelta()"
                           ]
                         }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::Once"
+                              },
+                              "parameters": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Hit_Hurt390.wav",
+                                "",
+                                "10",
+                                "RandomFloatInRange(1,2)"
+                              ]
+                            }
+                          ]
+                        }
                       ]
                     },
                     {
@@ -46274,6 +48391,18 @@
                             "+",
                             "2"
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "freesound_community-jump_c_02-102843.mp3",
+                            "",
+                            "10",
+                            "RandomFloatInRange(1,2)"
+                          ]
                         }
                       ]
                     },
@@ -46318,6 +48447,176 @@
                     }
                   ],
                   "parameters": []
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DraggablePhysics::DraggablePhysics::IsBeingDragged"
+                  },
+                  "parameters": [
+                    "lfood",
+                    "DraggablePhysics",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Physics2::Collision"
+                  },
+                  "parameters": [
+                    "lfood",
+                    "Physics2",
+                    "lfood2",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Hit_Hurt390.wav",
+                    "",
+                    "3",
+                    "0.8"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DraggablePhysics::DraggablePhysics::IsBeingDragged"
+                  },
+                  "parameters": [
+                    "lpet",
+                    "DraggablePhysics",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Hit_Hurt390.wav",
+                    "",
+                    "10",
+                    "RandomFloatInRange(1,2)"
+                  ]
+                }
+              ]
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "DraggablePhysics::DraggablePhysics::IsBeingDragged"
+                  },
+                  "parameters": [
+                    "lpet",
+                    "DraggablePhysics",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Physics2::Collision"
+                  },
+                  "parameters": [
+                    "lpet",
+                    "Physics2",
+                    "lfood2",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "RotateTowardAngle"
+                  },
+                  "parameters": [
+                    "lpet",
+                    "0",
+                    "1000",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "Hit_Hurt390.wav",
+                        "",
+                        "3",
+                        "0.8"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                      },
+                      "parameters": [
+                        "lpet",
+                        "Animation",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -46373,6 +48672,16 @@
                   "parameters": [
                     "NewSprite12",
                     "\"255;255;255\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "lshower",
+                    "Draggable",
+                    ""
                   ]
                 }
               ]
@@ -46735,6 +49044,18 @@
                         "True",
                         "lcache.forwhat"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "delon_boomkin-video-game-collect-item-468889.mp3",
+                        "",
+                        "10",
+                        ""
+                      ]
                     }
                   ]
                 }
@@ -46755,6 +49076,60 @@
             "textR": 255
           },
           "comment": "\n\n\n\n\n\n\n\n\n\ngap\n\n\n\n\n\n\n\n\n\n"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "lockstext",
+                "Text",
+                "=",
+                "\"\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Hide"
+              },
+              "parameters": [
+                "lockstext4"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "TextContainerCapability::TextContainerBehavior::Value"
+              },
+              "parameters": [
+                "lockstext",
+                "Text",
+                "=",
+                "\"\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "lockstext4",
+                ""
+              ]
+            }
+          ]
         },
         {
           "type": "BuiltinCommonInstructions::ForEach",
@@ -47596,6 +49971,339 @@
               "parameters": []
             },
             {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "cover",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "pframe",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.platformer",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "Opacity",
+                        "=",
+                        "220"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "cframe",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.clicker",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "Opacity",
+                        "=",
+                        "220"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "oframe",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.overspun",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "Opacity",
+                        "=",
+                        "220"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "tframe",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.topdownshooter",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "Opacity",
+                        "=",
+                        "220"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "jframe",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.jump",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "Opacity",
+                        "=",
+                        "220"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "dframe",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.dating",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "Opacity",
+                        "=",
+                        "220"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "bframe",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.bounce",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "Opacity",
+                        "=",
+                        "220"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "lframe",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.lovepet",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "OpacityCapability::OpacityBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "NewSprite13",
+                        "Opacity",
+                        "=",
+                        "220"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
               "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -47649,6 +50357,16 @@
                         "pframe",
                         "",
                         "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.platformer",
+                        "=",
                         ""
                       ]
                     }
@@ -47789,6 +50507,16 @@
                         "",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.clicker",
+                        "=",
+                        ""
+                      ]
                     }
                   ],
                   "actions": [
@@ -47925,6 +50653,16 @@
                         "oframe",
                         "",
                         "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.overspun",
+                        "=",
                         ""
                       ]
                     }
@@ -48065,6 +50803,16 @@
                         "",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.topdownshooter",
+                        "=",
+                        ""
+                      ]
                     }
                   ],
                   "actions": [
@@ -48202,6 +50950,16 @@
                         "jframe",
                         "",
                         "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.jump",
+                        "=",
                         ""
                       ]
                     }
@@ -48388,6 +51146,16 @@
                         "",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.dating",
+                        "=",
+                        ""
+                      ]
                     }
                   ],
                   "actions": [
@@ -48526,6 +51294,16 @@
                         "",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.bounce",
+                        "=",
+                        ""
+                      ]
                     }
                   ],
                   "actions": [
@@ -48662,6 +51440,16 @@
                         "lframe",
                         "",
                         "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "completions.lovepet",
+                        "=",
                         ""
                       ]
                     }
@@ -48894,6 +51682,18 @@
                     "0.4",
                     "1",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "alexis_gaming_cam-item-collected-1-367087.mp3",
+                    "",
+                    "60",
+                    "0.75"
                   ]
                 }
               ],
@@ -50704,6 +53504,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "completions",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -50788,6 +53589,16 @@
                     "0.4",
                     "",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeLayerTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "\"platformer\"",
+                    "0"
                   ]
                 }
               ],
@@ -51635,6 +54446,16 @@
                     "",
                     "yes"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeLayerTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "\"clicker\"",
+                    "0"
+                  ]
                 }
               ],
               "events": [
@@ -52472,6 +55293,16 @@
                     "",
                     "yes"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeLayerTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "\"jump\"",
+                    "0"
+                  ]
                 }
               ]
             },
@@ -52555,6 +55386,16 @@
                     "0.4",
                     "",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeLayerTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "\"dating\"",
+                    "0"
                   ]
                 }
               ],
@@ -53401,6 +56242,16 @@
                     "",
                     "yes"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeLayerTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "\"overspun\"",
+                    "0"
+                  ]
                 }
               ]
             },
@@ -53483,6 +56334,16 @@
                     "0.4",
                     "",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeLayerTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "\"topdownshooter\"",
+                    "0"
                   ]
                 }
               ]
@@ -53567,6 +56428,16 @@
                     "",
                     "yes"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeLayerTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "\"pong\"",
+                    "0"
+                  ]
                 }
               ]
             },
@@ -53650,6 +56521,16 @@
                     "",
                     "yes"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ChangeLayerTimeScale"
+                  },
+                  "parameters": [
+                    "",
+                    "\"lovepet\"",
+                    "0"
+                  ]
                 }
               ]
             }
@@ -53698,125 +56579,198 @@
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"a\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "whattowhat.towhat",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "justgot",
-                "=",
-                "31"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"d\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "whattowhat.towhat",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "justgot",
-                "=",
-                "33"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "KeyFromTextReleased"
-              },
-              "parameters": [
-                "",
-                "\"s\""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "whattowhat.towhat",
-                "=",
-                "1"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetNumberVariable"
-              },
-              "parameters": [
-                "justgot",
-                "=",
-                "32"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": [
             {
               "type": {
-                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
               },
               "parameters": [
-                "controltext",
-                "Text",
+                "lockstext5",
+                "Opacity",
                 "=",
-                "cacheeffect.remem"
+                "NewSprite15.Opacity::Value()"
+              ]
+            },
+            {
+              "type": {
+                "value": "OpacityCapability::OpacityBehavior::SetValue"
+              },
+              "parameters": [
+                "lockstext6",
+                "Opacity",
+                "=",
+                "NewSprite15.Opacity::Value()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlayMusicOnChannel"
+              },
+              "parameters": [
+                "",
+                "audiomass-output (7).mp3",
+                "1",
+                "yes",
+                "50",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "completions.bounce",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "completions.clicker",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "completions.dating",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "completions.jump",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "completions.lovepet",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "completions.overspun",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "completions.platformer",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "completions.topdownshooter",
+                "True",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ChangeLayer"
+              },
+              "parameters": [
+                "NewSprite6",
+                "\"trans\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "NewSprite15",
+                "Tween",
+                "\"doapodakdasokpdasopdsaokpdspokasd\"",
+                "255",
+                "\"linear\"",
+                "6",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "lockstext5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Show"
+              },
+              "parameters": [
+                "lockstext6",
+                ""
               ]
             }
           ]
@@ -54323,7 +57277,7 @@
           "isLocked": false,
           "name": "",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [
             {
               "defaultSize": true,
@@ -54336,6 +57290,60 @@
               "width": 0
             }
           ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera2DPlaneMaxDrawingDistance": 5000,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "trans",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
           "effects": [
             {
               "effectType": "Scene3D::HemisphereLight",
